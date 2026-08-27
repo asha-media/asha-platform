@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+Disallow: /auth/
+Disallow: /dashboard
+Disallow: /admin
+Disallow: /owner
+Disallow: /cart
+Disallow: /checkout/
+Disallow: /404
+
+Sitemap: https://asha-platform.surge.sh/sitemap.xml

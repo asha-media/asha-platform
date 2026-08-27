@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none">
+  <defs>
+    <linearGradient id="asha-ring" x1="0" y1="0" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#CC5D0A"/>
+      <stop offset="1" stop-color="#ECA55C"/>
+    </linearGradient>
+  </defs>
+  <circle cx="24" cy="24" r="17" stroke="url(#asha-ring)" stroke-width="3"/>
+  <path d="M15 32L27 16" stroke="#CC5D0A" stroke-width="3.4" stroke-linecap="round"/>
+  <path d="M21 22h9" stroke="#1CA6C4" stroke-width="3.4" stroke-linecap="round"/>
+  <circle cx="24" cy="24" r="6.5" fill="#151C2D" stroke="#1CA6C4" stroke-width="1.6"/>
+</svg>
