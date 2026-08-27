@@ -1,0 +1,1 @@
+import{a9 as t,aa as m}from"./index-YCoOcBKv.js";const n=t()(m((d,a)=>({orders:[],addOrder:r=>d(e=>({orders:[r,...e.orders]})),updateOrder:(r,e)=>d(o=>({orders:o.orders.map(s=>s.id===r?{...s,...e}:s)})),getByNumber:r=>a().orders.find(e=>e.number===r)}),{name:"asha-orders-v1",version:1}));export{n as u};
