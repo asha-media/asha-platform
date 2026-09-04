@@ -1,0 +1,1 @@
+import{ac as t,ad as m}from"./index-Z9PvdUZ5.js";const n=t()(m((s,a)=>({orders:[],addOrder:r=>s(e=>({orders:[r,...e.orders]})),updateOrder:(r,e)=>s(o=>({orders:o.orders.map(d=>d.id===r?{...d,...e}:d)})),getByNumber:r=>a().orders.find(e=>e.number===r)}),{name:"asha-orders-v1",version:1}));export{n as u};
