@@ -1,0 +1,1 @@
+import{r as a,j as r,w as o}from"./index-DOqHuSi-.js";const m=a.forwardRef(function({className:t,...e},s){return r.jsx("label",{ref:s,className:o("mb-2 block text-xs font-medium uppercase tracking-[0.14em] text-text-soft",t),...e})});export{m as L};
